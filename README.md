@@ -25,6 +25,8 @@ It also detects **potential subdomain takeovers** — where a CNAME record point
 
 ## Features
 
+<img width="938" height="570" alt="image" src="https://github.com/user-attachments/assets/6c006772-6408-43bf-9d70-a722209392f5" />
+
 - **DNS Brute-Force** — tries common subdomain names from a wordlist using multi-threading
 - **crt.sh** — searches SSL Certificate Transparency logs (free, no API key)
 - **HackerTarget** — queries their free subdomain database
