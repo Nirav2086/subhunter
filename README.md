@@ -19,7 +19,7 @@ Given a target domain like `example.com`, SubHunter discovers subdomains like:
 - `dev.example.com`
 - `staging.example.com`
 
-It also detects **potential subdomain takeovers** — where a CNAME record points to a dead third-party service — which is a real bug bounty finding worth $200–$3000+.
+It also detects **potential subdomain takeovers** — where a CNAME record points to a dead third-party service.
 
 ---
 
